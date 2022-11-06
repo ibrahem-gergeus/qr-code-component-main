@@ -1,0 +1,24 @@
+body{
+    background-color: #d6e2f0;
+}
+.qr-img{
+    width: 400px;
+    height: 400px; 
+    border-radius: 5%;
+
+}
+.qr-container{
+    background-color: #fff;
+    width: 400px;
+    padding: 20px;
+    position: absolute;
+    height: 600px;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50% , -50%);
+    border-radius: 5%;
+}
+h4 {
+    padding: 25px;
+}
+
